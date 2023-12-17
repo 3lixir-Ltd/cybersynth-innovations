@@ -30,7 +30,7 @@
     {
       "name": "cybersynth-innovations",
       "label": "CyberSynth Innovations",
-      "path": "./packs/cybersynth-innovations",
+      "path": "/packs/cybersynth-innovations",
       "type": "Item",
       "system": "cyberpunk-red-core",
       "ownership": {
